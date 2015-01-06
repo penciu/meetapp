@@ -1,0 +1,6 @@
+/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/classes/debug
+/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8830926818eaaf4aca3a699c92629864e0cabc58.jar
+/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f95ada2a43cfc67b29a725ef1e4c7c81f3951c97.jar
+/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/pre-dexed/debug/classes-c770b3a18b990ae376aaafe4c32cdbcd31f80456.jar
+/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/pre-dexed/debug/classes-0bbba693458afb1232600d15b16fa63cb1ab174f.jar
+/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/pre-dexed/debug/classes-61d27054b4ce4954c67e40926734bb74a5ef051d.jar

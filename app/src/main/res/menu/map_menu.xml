@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/facebook_login_option"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/facebook_login_option"/>
+    <item android:id="@+id/googleplus_login_option"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/googleplus_login_option" />
+</menu>

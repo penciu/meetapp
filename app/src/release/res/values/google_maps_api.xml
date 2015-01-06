@@ -1,0 +1,5 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve">
+        5F:55:A4:23:C3:A3:06:5E:60:1F:7E:0E:EE:26:B5:6A:A6:46:75:67;ro.andreip.meetapp
+    </string>
+</resources>
