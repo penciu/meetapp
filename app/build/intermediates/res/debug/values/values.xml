@@ -22,6 +22,11 @@
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -90,6 +95,9 @@
     <color name="wallet_hint_foreground_holo_light">#808080</color>
     <color name="wallet_holo_blue_light">#ff33b5e5</color>
     <color name="wallet_link_text_light">#0000ee</color>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <color name="white">#ffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
     <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
@@ -157,6 +165,12 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
     <item name="dialog_fixed_width_major" type="dimen">320dp</item>
@@ -199,6 +213,13 @@
     <string name="accept">Accept</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="app_name">MeetApp</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_strings.xml -->
     <eat-comment/>
@@ -235,31 +256,66 @@
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="facebook_app_id">1524423671164474</string>
     <string name="facebook_login_option">Sign into Facebook</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/debug/res/values/google_maps_api.xml -->
     <eat-comment/>
-    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyC5JvC0FsA-uQ1XfOePL9_j9DxXV39P3JA</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyANkyJE_mW35q-ZMukwADRtKkS5Y8qq44w</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="googleplus_login_option">Sign into Google+</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
     <string name="option">option</string>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="settings">Settings</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
+    <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings_activity_login.xml -->
+    <eat-comment/>
+    <string name="title_activity_login">Sign in</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/src/main/res/values/styles.xml -->
     <eat-comment/>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+    <style name="ActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="background">@color/black</item>
+        <item name="logo">@drawable/ic_pushpin_logo</item>
+        <item name="displayOptions">useLogo|showHome</item>
+
+        <item name="android:titleTextStyle">@style/ActionBarTitleText</item>
+        <!-- Support library compatibility -->
+        <item name="titleTextStyle">@style/ActionBarTitleText</item>
+    </style>
+    <style name="ActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+        <!-- The textColor property is backward compatible with the Support Library -->
+    </style>
+    <style name="AppTheme" parent="@style/Theme.AppCompat">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/ActionBar</item>
     </style>
     <!-- From: file:/home/andpavel/AndroidStudioProjects/MeetApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
